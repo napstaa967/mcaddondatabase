@@ -1,0 +1,22 @@
+//bridge-file-version: #1
+{
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "reindustriality:melter_oxidized_cut_copper_slab"
+		},
+		"tags": [
+			"melter"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:oxidized_cut_copper"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:copper_ingot",
+				"count": 3
+			}
+		]
+	}
+}
