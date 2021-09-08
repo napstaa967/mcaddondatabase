@@ -1,0 +1,23 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "reindustriality:melter_gold_rail"
+		},
+		"tags": [
+			"melter"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:golden_rail"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:gold_ingot",
+				"count": 2
+			}
+		]
+	}
+}

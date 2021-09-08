@@ -1,0 +1,24 @@
+//bridge-file-version: #6
+{
+	"format_version": "1.17.0",
+	"minecraft:block": {
+		"description": {
+			"identifier": "reindustriality:fertilizer",
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:destroy_time": 4,
+			"tag:wood": {},
+			"minecraft:block_light_emission": 0.6,
+			"minecraft:explosion_resistance": 13,
+			"minecraft:crafting_table": {
+				"custom_description": "tiles.extracting.title",
+				"grid_size": 3,
+				"crafting_tags": [
+					"fertilizer"
+				]
+			}
+		},
+		"events": {}
+	}
+}

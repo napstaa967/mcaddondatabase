@@ -1,0 +1,23 @@
+//bridge-file-version: #7
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "reindustriality:melter_hopper_minecart"
+		},
+		"tags": [
+			"melter"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:hopper_minecart"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:iron_ingot",
+				"count": 3
+			}
+		]
+	}
+}

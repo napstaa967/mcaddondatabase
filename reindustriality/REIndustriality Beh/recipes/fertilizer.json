@@ -1,0 +1,33 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "reindustriality:fertilizer"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"PGP",
+			"PRP",
+			"PGP"
+		],
+		"key": {
+			"P": {
+				"item": "minecraft:planks"
+			},
+			"G": {
+				"item": "minecraft:glass"
+			},
+			"R": {
+				"item": "minecraft:grass"
+			}
+		},
+		"result": [
+			{
+				"item": "reindustriality:fertilizer"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "reindustriality:melter_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"GGG",
+			"IGI",
+			"LLL"
+		],
+		"key": {
+			"G": {
+				"item": "minecraft:glass"
+			},
+			"I": {
+				"item": "minecraft:iron_block"
+			},
+			"L": {
+				"item": "minecraft:lava_bucket"
+			}
+		},
+		"result": [
+			{
+				"item": "reindustriality:melter"
+			}
+		]
+	}
+}
