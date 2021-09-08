@@ -1,0 +1,15 @@
+//bridge-file-version: #2
+[
+	{
+		"flipbook_texture": "textures/reindustriality/flipbook/melter",
+		"ticks_per_frame": 12,
+		"frames": [
+			0,
+			2,
+			3,
+			4
+		],
+		"atlas_tile": "reindustriality_melter"
+	},
+	{}
+]

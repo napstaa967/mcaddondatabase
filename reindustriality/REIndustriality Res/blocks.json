@@ -1,0 +1,29 @@
+//bridge-file-version: #7
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"reindustriality:fertilizer": {
+		"sound": "wood",
+		"textures": {
+			"up": "reindustrality_smooth_oak_planks_i_should_add_this_thing_to_a_decor_addon",
+			"down": "reindustrality_smooth_oak_planks_i_should_add_this_thing_to_a_decor_addon",
+			"side": "reindustriality_fertilizer_side"
+		},
+		"isotropic": {
+			"up": true,
+			"down": true,
+			"side": false
+		}
+	},
+	"reindustriality:melter": {
+		"sound": "stone",
+		"textures": {
+			"side": "reindustriality_melter",
+			"up": "reindustriality_melter_top",
+			"down": "reindustriality_melter_top"
+		}
+	}
+}

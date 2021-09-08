@@ -1,0 +1,8 @@
+##bridge-file-version: #4
+pack.name=REIndustriality
+pack.description=resources
+tile.reindustriality:melter.name=Melting Table
+tiles.melting.title=Melting
+tile.reindustriality:fertilizer.name=Fertilizing Table
+tiles.extracting.title=Extracting
+# when you realize that you uploaded the wrong version, i had like 30 recipes done but windows 11 decided to delete it, fuck you microsoft

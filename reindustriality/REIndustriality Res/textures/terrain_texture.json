@@ -1,0 +1,37 @@
+//bridge-file-version: #0
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"reindustrality_smooth_oak_planks_i_should_add_this_thing_to_a_decor_addon": {
+			"textures": [
+				{
+					"path": "textures/reindustriality/static_blocks/smooden_planks"
+				}
+			]
+		},
+		"reindustriality_fertilizer_side": {
+			"textures": [
+				{
+					"path": "textures/reindustriality/static_blocks/fertilizer_side"
+				}
+			]
+		},
+		"reindustriality_melter_top": {
+			"textures": [
+				{
+					"path": "textures/reindustriality/static_blocks/melter"
+				}
+			]
+		},
+		"reidustriality_melter": {
+			"textures": [
+				{
+					"path": "textures/reindustriality/flipbook/melter"
+				}
+			]
+		}
+	}
+}
