@@ -1,0 +1,22 @@
+//bridge-file-version: #11
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "reindustriality:azalea_leaves_flowered"
+		},
+		"tags": [
+			"fertilizer"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:azalea_leaves_flowered"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:bone_meal"
+			}
+		]
+	}
+}

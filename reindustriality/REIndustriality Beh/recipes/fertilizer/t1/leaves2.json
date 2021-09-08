@@ -1,0 +1,22 @@
+//bridge-file-version: #9
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "reindustriality:leaves2"
+		},
+		"tags": [
+			"fertilizer"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:leaves2"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:bone_meal"
+			}
+		]
+	}
+}

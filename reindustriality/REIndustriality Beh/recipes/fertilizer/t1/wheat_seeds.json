@@ -1,0 +1,22 @@
+//bridge-file-version: #3
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "reindustriality:wheat_seeds"
+		},
+		"tags": [
+			"fertilizer"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:wheat_seeds"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:bone_meal"
+			}
+		]
+	}
+}

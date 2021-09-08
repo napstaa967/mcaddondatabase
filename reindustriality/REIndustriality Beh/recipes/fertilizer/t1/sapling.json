@@ -1,0 +1,22 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "reindustriality:sapling"
+		},
+		"tags": [
+			"fertilizer"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:sapling"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:bone_meal"
+			}
+		]
+	}
+}

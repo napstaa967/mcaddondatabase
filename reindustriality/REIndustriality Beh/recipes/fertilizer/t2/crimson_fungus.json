@@ -1,0 +1,23 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "reindustriality:crimson_fungus"
+		},
+		"tags": [
+			"fertilizer"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:crimson_fungus"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:bone_meal",
+				"count": 2
+			}
+		]
+	}
+}

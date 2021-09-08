@@ -1,0 +1,23 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "reindustriality:sea_pickle"
+		},
+		"tags": [
+			"fertilizer"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:sea_pickle"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:bone_meal",
+				"count": 2
+			}
+		]
+	}
+}
